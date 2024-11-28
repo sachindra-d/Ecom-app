@@ -1,2 +1,2 @@
-# ecom-app
+# Ecom-app
 ecommerce-app
